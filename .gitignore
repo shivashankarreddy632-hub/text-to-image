@@ -1,0 +1,21 @@
+# Security: API keys and secrets
+.env
+api_key.txt
+
+# Generated images & previews
+outputs/
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# Operating system artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

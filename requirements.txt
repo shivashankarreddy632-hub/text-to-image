@@ -1,0 +1,19 @@
+# Core AI & Image Generation Libraries
+google-generativeai>=0.8.0
+openai>=1.12.0
+requests>=2.31.0
+pillow>=10.2.0
+
+# Configuration & Environment
+python-dotenv>=1.0.0
+
+# Interactive Web Application
+streamlit>=1.32.0
+
+# Optional Local Inference & Utilities
+diffusers>=0.30.0
+torch>=2.1.0
+transformers>=4.40.0
+tqdm>=4.66.0
+numpy>=1.24.0
+
